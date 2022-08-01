@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Mghanga @davidmghanga
+- 👋 Hi, I’m David Mghanga @davidmghanga, and I am travel agent looking for new opportunities.
 - 👀 I’m interested in algorithm trading.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on building trading robots in C++ and Python.
